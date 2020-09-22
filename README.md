@@ -5,20 +5,9 @@ https://www.youtube.com/watch?v=rbmUFHZt3sg&t=364s
 김정환님의 '웹팩(Webpack) 최소설정으로 프론트엔드 개발 환경 만들기' 영상을 참고하여 만든 실습 프로젝트입니다.
   
    
-### 실습 내용 정리  
+# 실습 내용 정리  
 https://www.notion.so/Webpack-a91feb0dc5d4432f91dfe7bbb2672ee1  
   
-    
-    
-[https://youtu.be/rbmUFHZt3sg](https://youtu.be/rbmUFHZt3sg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6858775-7b44-4e48-8418-7f28ca8f4146/_2020-09-22__12.06.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6858775-7b44-4e48-8418-7f28ca8f4146/_2020-09-22__12.06.30.png)
-
-         
-
- 웹팩은 스타트 포인트만 설정해주면 웹팩이 연결되어있는 모든 모듈을 하나로 합쳐 하나의 자바스크립트 파일로 만들어준다.!
-
----
 
 # **webpack설치 및 기본 파일 생성**
 
