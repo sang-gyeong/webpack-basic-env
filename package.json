@@ -1,0 +1,30 @@
+{
+    "name": "webpack-basic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "build": "webpack",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sang-gyeong/webpack-basic-env.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sang-gyeong/webpack-basic-env/issues"
+    },
+    "homepage": "https://github.com/sang-gyeong/webpack-basic-env#readme",
+    "devDependencies": {
+        "clean-webpack-plugin": "^3.0.0",
+        "css-loader": "^4.3.0",
+        "file-loader": "^6.1.0",
+        "html-webpack-plugin": "^4.5.0",
+        "style-loader": "^1.2.1",
+        "webpack": "^4.44.2",
+        "webpack-cli": "^3.3.12"
+    }
+}
