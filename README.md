@@ -194,7 +194,7 @@ publicPath : '../dist’하면
 
 npm run build를 하면 정상적으로 이미지가 로드된 것을 확인할 수 있다.
 
-![https://blogfiles.pstatic.net/MjAyMDA5MjJfMTEz/MDAxNjAwNzUwMzk3NDUx.RTFbLsv_dqjUyFf5SIPR-e8J3uerqF8PXfs-Wtw4nyQg.10J624m128DIF0lQTVCamV2LnV4T0B9wwGdVtsGBNkQg.PNG.sknglee22/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-09-22_%EC%98%A4%ED%9B%84_1.53.00.png?type=w1](https://blogfiles.pstatic.net/MjAyMDA5MjJfMTEz/MDAxNjAwNzUwMzk3NDUx.RTFbLsv_dqjUyFf5SIPR-e8J3uerqF8PXfs-Wtw4nyQg.10J624m128DIF0lQTVCamV2LnV4T0B9wwGdVtsGBNkQg.PNG.sknglee22/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-09-22_%EC%98%A4%ED%9B%84_1.53.00.png?type=w1)
+<img width="400" src="https://blogfiles.pstatic.net/MjAyMDA5MjJfMTEz/MDAxNjAwNzUwMzk3NDUx.RTFbLsv_dqjUyFf5SIPR-e8J3uerqF8PXfs-Wtw4nyQg.10J624m128DIF0lQTVCamV2LnV4T0B9wwGdVtsGBNkQg.PNG.sknglee22/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2020-09-22_%EC%98%A4%ED%9B%84_1.53.00.png?type=w1" />
 
 ---
 
